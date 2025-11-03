@@ -39,7 +39,7 @@ Modify the paths in lines 248 to 283 of the code.
 then simply run:
 
 ```
-python test.py
+python test_generate_label.py
 ```
 
 ### 5. DataSets
