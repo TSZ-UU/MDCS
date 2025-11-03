@@ -1,4 +1,4 @@
-# SynFoC
+# MDCS
 ### 1. Introduction
 
 My project is an open-source project based on the paper 'Enhancing Medical Image Segmentation with Collaborative and Contrastive Learning in Mixed-Domain Settings.
